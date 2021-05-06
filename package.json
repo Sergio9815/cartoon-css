@@ -1,0 +1,12 @@
+{
+  "name": "cartoon-css",
+  "version": "1.0.0",
+  "description": "Dibujando con CSS",
+  "main": "index.js",
+  "repository": "git@github.com:Sergio9815/cartoon-css.git",
+  "author": "sergio9815 <gsergio1598@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "granim": "^2.0.0"
+  }
+}
